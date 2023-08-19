@@ -3,11 +3,15 @@
 *1. Before you build any model, you want first to explore the raw data. What kind of analyses you would do? What kind of data pre-processing you would do? Please explain your logic and show the result of your preparatory analyses. [Point 7]*
 
 *Anwer :
+Analysis :
 1. Statistic Summary for the numerical features
 2. Categorical feature analysis
-3. Histogra
+3. Histogram
+4. Correlation ALaysis
 
-  
+Data Preprocessing:
+1. Handling Outliers
+2. Feature Scaling and Encoding*
 
 *2.Can you build a Machine Learning model (not Artificial Neural Network) to categorize the alcohol molecule given readings from the electronic nose? (Please consider the MIP: NP ratio as one of the features as well) Please justify your choice of algorithm and walk us through your logic as you develop the model. What is the accuracy, precision, and recall of the model? [Point 10]*
 
