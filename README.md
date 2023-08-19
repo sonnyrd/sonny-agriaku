@@ -2,10 +2,10 @@
 
 *1. Before you build any model, you want first to explore the raw data. What kind of analyses you would do? What kind of data pre-processing you would do? Please explain your logic and show the result of your preparatory analyses. [Point 7]*
 
-
-Anwer :
-
-1.
+*Anwer :
+1. Statistic Summary for the numerical features
+2. Categorical feature analysis
+3. Histogra
 
   
 
