@@ -27,7 +27,7 @@ Data Preprocessing:
 |--|--|
 | Accuracy |0.87  |
 | Precision|0.87 |	
-| Recall|  |0.87 | 
+| Recall|  0.87 | 
 
 *3.Can you build an Artificial Neural Network (ANN) model to categorize the alcohol molecule given readings from the electronic nose? (Please consider the MIP:NP ratio as one of the features as well) Please justify your choice of algorithm and walk us through your logic as you develop the model. What is the accuracy, precision, and recall of the model? [Point 10]*
 
