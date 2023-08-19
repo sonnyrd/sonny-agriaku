@@ -33,7 +33,7 @@ Data Preprocessing:
 
 *Answer:*
 *Notebook : 3_ann_model.ipynb*
-*for the ANN Model, i used sequential model*
+*for the ANN Model, i used sequential model with 1 input layer, 1 dense layer and 1 output layer *
 
 *Table below is the classfication report from our model*
 |  |Test|
