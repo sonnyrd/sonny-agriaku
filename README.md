@@ -43,10 +43,22 @@ Data Preprocessing:
 | Recall| 1 | 
 
 *4.You were asked to convert your model to API, so that the researchers can perform the alcohol identification in real-time. How would you do this (you don’t have to make the actual API)? [Point 8]*
-
+**Back End**
 1. to build the API i will use *Flask* Framework
 2. Load the trained model that already developed
 3. define API Endpoint to receive input data
 4. Data preprocessing
 5. Make prediction
 6. Return the prediction result
+
+**Front End**
+1. User interface
+2. sensor integration
+3. Request to backend
+4. Data Visualization
+
+**Integration of Front End and Back End**
+1. API request
+2. Response handling
+
+By integrating the front end with the back end in this way, researchers will be able to use the UI to input sensor data, receive real-time alcohol identification predictions, and potentially visualize the results. 
